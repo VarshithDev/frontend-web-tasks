@@ -27,6 +27,9 @@ This project showcases intermediate front-end development skills using **HTML5**
 - Display images in a grid layout
 - Remove individual images with a delete button
 
+Demo:
+https://varshithdev.github.io/frontend-web-tasks/
+
 ---
 
 ## 🛠️ Technologies Used
